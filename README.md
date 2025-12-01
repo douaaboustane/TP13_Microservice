@@ -1,7 +1,16 @@
-## 🧪 Test SOAP – 
+## SOAP Web Service – Spring Boot + Apache CXF
 
-![](images/soap1.png)
+Ce projet implémente un Web Service SOAP basé sur Spring Boot, Apache CXF et JAX-WS.
+Le serveur expose deux opérations SOAP testables via SoapUI.
 
-## 🧪 Test SOAP – 
+````` Technologies utilisées `````
 
-![](images/soap2.png)
+Spring Boot
+
+Apache CXF (publication du service SOAP)
+
+JAX-WS (@WebService, @WebMethod)
+
+JAXB (@XmlRootElement) pour la sérialisation XML
+
+SoapUI (tests des endpoints SOAP)
