@@ -1,7 +1,7 @@
-## 🧪 Test SOAP – FindPerson
+## 🧪 Test SOAP – 
 
-![FindPerson Request](images/soap1.png)
+![](images/soap1.png)
 
-## 🧪 Test SOAP – SayHello
+## 🧪 Test SOAP – 
 
-![SayHello Request](images/soap2.png)
+![](images/soap2.png)
