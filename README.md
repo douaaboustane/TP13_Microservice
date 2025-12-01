@@ -14,3 +14,12 @@ JAX-WS (@WebService, @WebMethod)
 JAXB (@XmlRootElement) pour la sérialisation XML
 
 SoapUI (tests des endpoints SOAP)
+
+`` Opérations SOAP disponibles ``
+ 1) FindPerson(id)
+
+Retrouve une personne via son identifiant.
+
+ 2) SayHello(name)
+
+Retourne un message personnalisé.
