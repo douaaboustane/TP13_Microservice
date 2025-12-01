@@ -25,6 +25,13 @@ Retrouve une personne via son identifiant.
 Retourne un message personnalisé.
 
 
+## 🧪 Test SOAP – FindPerson
+![FindPerson Test](soap1.png)
+
+## 🧪 Test SOAP – SayHello
+![SayHello Test](soap2.png)
+
+
 ## Ce projet montre clairement :
 
 Comment créer un service SOAP moderne avec Spring Boot
