@@ -23,3 +23,14 @@ Retrouve une personne via son identifiant.
  2) SayHello(name)
 
 Retourne un message personnalisé.
+
+
+## Ce projet montre clairement :
+
+Comment créer un service SOAP moderne avec Spring Boot
+
+Comment structurer une API SOAP (WSDL, opérations…)
+
+Comment tester facilement via SoapUI
+
+Comment utiliser CXF pour publier un endpoint SOAP
